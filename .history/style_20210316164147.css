@@ -1,0 +1,95 @@
+.btn {
+    display: inline-block;
+    padding: 10px 30px;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: background-color 1s, color 1s, border 1s;
+    margin-bottom: 20px;
+}
+
+.btn-pack {
+    background-color: green;
+    color: white;
+}
+
+.btn-pack:hover {
+    background-color: #2a962a;
+    color: white;
+}
+
+.pack {
+    box-shadow: 0 0 5px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.pack h3 {
+    color: green;
+    font-weight: 400;
+}
+
+.pack h4 {
+    font-size: 2rem;
+    font-weight: 100;
+}
+
+.pack-titre {
+    padding: 10px 10px 0 10px;
+    border-bottom: 1px solid;
+}
+
+.pack span {
+    font-weight: 100;
+    font-size: 0.8rem;
+    position: relative;
+    top: -15px;
+    left: 2px;
+}
+
+.pack-contenu ul {
+    list-style: none;
+    padding: 20px;
+    font-weight: 300;
+    line-height: 35px;
+}
+
+.pack-contenu ul li i {
+    font-size: 0.9rem;
+    margin-right: 10px;
+}
+
+.pack-inscription {
+    text-align: center;
+}
+
+.pack-premium {
+    background-color: #5ed45e;
+    color: white;
+}
+
+.pack-title-premium {
+    position: absolute;
+    right: 30px;
+    top: 10px;
+    background-color: #fff;
+    color: green;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-align: center;
+}
+
+.promocontainer {
+    background-color: red;
+    color: white;
+}
+
+.promocontainer h3 {
+    text-transform: uppercase;
+    font-size: 4rem;
+}
+
+.promocontainer p {
+    font-size: 2rem;
+}
