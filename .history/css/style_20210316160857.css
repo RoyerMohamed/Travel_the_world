@@ -1,0 +1,9 @@
+.carousel{
+    max-height: 700px;
+}
+
+.carousel img{
+    height: 50vh;
+    max-height: 500px;
+    width: 100%;
+}

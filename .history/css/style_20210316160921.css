@@ -1,0 +1,8 @@
+.carousel{
+    max-height: 50vh;
+}
+
+.carousel img{
+    height: 100%;
+    width: 100%;
+}

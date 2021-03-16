@@ -1,0 +1,20 @@
+.carousel{
+    max-height: 70vh;
+}
+
+.carousel img{
+    height: 70vh;
+    width: 100%;
+}
+
+.carousel-item{
+    position: relative;
+}
+
+.slide_content{
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    color: white;
+}
